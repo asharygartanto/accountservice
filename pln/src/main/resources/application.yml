@@ -1,0 +1,1 @@
+application:  branch-code: 270  currency-code: Code-016  channel-i-d: pln  client-supervisor-i-d: 0000  client-user-i-d: 0000  message-i-d: ${=java.util.UUID.randomUUID()}  reference: F514AE3C-5192-47A0-927D-579EECF9D41F  sequenceno: 9999  accountno:  - 1003000010  - 1003000013  - 2001396942  - 2001396943  - 2003048755
